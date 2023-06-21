@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Agraz Huitron</h1>
 <h3 align="center">A passionate Full-Stack-Web-Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=espinosasalvador" alt="espinosasalvador" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronagraz" alt="aaronagraz" /></a> </p>
 
 - 🔭 I’m currently working on [Resumate](https://github.com/aaronagraz/resumate)
 
