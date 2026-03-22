@@ -51,18 +51,34 @@ mindset: clarity > noise
 
 ## / stack
 
+### Core
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mysql,git,github,figma,vscode" />
 </p>
 
+### AI / Tools
+
+- OpenAI
+- Claude
+- Cursor
+- Perplexity
+- ChatGPT
+- AI-assisted workflows
+- agent systems
+- prompting systems
+- automation logic
+- API integrations
+
 ---
 
-## / capabilities
+## / skills
 
 - Architect and launch web apps from concept to production
 - Build AI-powered products, workflows, automations, and internal systems
 - Create agent-based flows for reasoning, task execution, and process automation
 - Integrate multiple AI models, APIs, and tools into real product experiences
+- Work across OpenAI, Claude, Cursor, Perplexity, and AI-assisted development workflows
 - Develop frontend systems that connect cleanly with backend and AI layers
 - Turn vague ideas into structured digital products with speed and clarity
 - Design funnels, user journeys, and conversion-oriented digital experiences
@@ -134,13 +150,12 @@ Products that attract attention, create trust, generate action, and build long-t
 Build fast.
 Think deeply.
 Iterate.
-Research properly.
 Play as a team.
+Research properly.
 Communicate clearly.
 Refine hard.
 Ship often.
 Let the work speak.
-Output.
 ```
 
 ---
