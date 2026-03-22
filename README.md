@@ -2,10 +2,10 @@
 
 # Aaron Agraz
 
-### Building web apps, systems, content, and digital products.
+### Building web apps, AI systems, agents, funnels, and digital products.
 
 <p>
-  Creative builder focused on code, design, execution, and shipping ideas that actually become real.
+  Builder focused on execution, critical thinking, innovation, research, and turning ideas into real systems that ship.
 </p>
 
 <p>
@@ -23,13 +23,18 @@
 I build at the intersection of:
 
 - web development
-- product thinking
-- digital systems
-- content and media
-- brand-driven experimentation
+- AI systems and agents
+- product strategy
+- digital marketing
+- research and innovation
+- content, funnels, and media
+- entrepreneurship and execution
 
-I care about making things feel sharp, useful, and alive.  
-Not just functional. Not just pretty. Built with intent.
+I work across code, systems, interface, automation, communication, and growth.
+
+My approach combines technical execution with critical thinking, insight, emotional intelligence, and business awareness.
+
+I am interested in building products that are not only functional, but strategically positioned, clearly communicated, and designed to create momentum.
 
 ---
 
@@ -38,8 +43,8 @@ Not just functional. Not just pretty. Built with intent.
 ```txt
 status: building
 mode: shipping
-focus: web apps / ui / systems / experiments
-mindset: less talking, more releasing
+focus: web apps / ai systems / agents / funnels / experiments
+mindset: clarity > noise
 ```
 
 ---
@@ -52,13 +57,74 @@ mindset: less talking, more releasing
 
 ---
 
+## / capabilities
+
+- Architect and launch web apps from concept to production
+- Build AI-powered products, workflows, automations, and internal systems
+- Create agent-based flows for reasoning, task execution, and process automation
+- Integrate multiple AI models, APIs, and tools into real product experiences
+- Develop frontend systems that connect cleanly with backend and AI layers
+- Turn vague ideas into structured digital products with speed and clarity
+- Design funnels, user journeys, and conversion-oriented digital experiences
+- Apply product thinking, positioning, messaging, and strategic communication
+- Research markets, opportunities, user behavior, and business direction
+- Combine technical work with branding, content systems, and growth strategy
+- Operate with critical thinking, pattern recognition, and decision-making under ambiguity
+- Build with both analytical depth and emotional intelligence
+
+---
+
+## / how-i-think
+
+```txt
+critical thinking
+insightful analysis
+innovation
+research-driven decisions
+systems mindset
+emotional intelligence
+strategic communication
+execution under pressure
+```
+
+I care about understanding what makes an idea work, not just making it look finished.
+
+That means thinking about structure, incentives, positioning, friction, usability, perception, communication, adoption, and scale.
+
+I am interested in the full picture:
+how something is built, how it is experienced, how it is marketed, and why it matters.
+
+---
+
 ## / what-i-do
 
-- Build web apps and interactive tools
-- Design clean interfaces with strong visual direction
-- Turn vague ideas into structured digital products
-- Create systems for content, workflow, and execution
-- Blend technical work with creative strategy
+- Build web apps and digital tools
+- Design AI-powered workflows and agent systems
+- Create structured systems for execution, automation, and operations
+- Develop interfaces with clear visual direction and product logic
+- Connect technology with marketing, positioning, and business goals
+- Think in terms of systems, leverage, conversion, and scalability
+- Translate abstract ideas into concrete products, assets, and frameworks
+
+---
+
+## / marketing-and-business
+
+I also work with ideas through the lens of growth, positioning, and entrepreneurship.
+
+That includes:
+
+- offer thinking
+- funnel logic
+- messaging and positioning
+- content systems
+- conversion-oriented structure
+- digital product strategy
+- research and market observation
+- execution with business intent
+
+I am interested in products that do not just exist, but move.
+Products that attract attention, create trust, generate action, and build long-term value.
 
 ---
 
@@ -66,24 +132,30 @@ mindset: less talking, more releasing
 
 ```txt
 Build fast.
+Think deeply.
+Iterate.
+Research properly.
+Play as a team.
+Communicate clearly.
 Refine hard.
 Ship often.
 Let the work speak.
+Output.
 ```
-
-I’m interested in projects that combine aesthetics, clarity, momentum, and real-world usefulness.
 
 ---
 
-## / featured-direction
+## / focus
 
-Right now I’m focused on building things like:
+Right now I am focused on building things like:
 
-- productized web tools
-- clean frontend systems
+- AI-powered web apps and solutions
+- agent workflows
+- frontend systems
 - experimental interfaces
-- content-driven digital assets
-- scalable creative/technical workflows
+- content-driven digital products
+- conversion-aware user experiences
+- scalable creative and technical systems
 
 ---
 
@@ -100,27 +172,16 @@ Right now I’m focused on building things like:
 
 ---
 
-## / selected-repos
-
-- Main product / strongest build
-- Cleanest UI project
-- Best full-stack app
-- Most useful tool
-- Most ambitious experiment
-- Personal favorite
-
----
-
 ## / contact
 
 ```txt
 email   -> aaronagrazh@gmail.com
 status  -> open to serious collaboration
-focus   -> building things with edge
+focus   -> building products with intelligence, strategy, and edge
 ```
 
 <div align="center">
 
-### Turning ideas into systems.
+### Turning ideas into systems, products, and momentum.
 
 </div>
