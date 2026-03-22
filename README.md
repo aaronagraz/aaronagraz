@@ -1,28 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Turning+ideas+into+products%2C+systems%2C+and+momentum#gh-dark-mode-only" alt="Typing SVG dark mode" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Aaron+Agraz#gh-dark-mode-only" alt="Aaron Agraz dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=111111&center=true&vCenter=true&width=1100&lines=Aaron+Agraz#gh-light-mode-only" alt="Aaron Agraz light" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=111111&center=true&vCenter=true&width=1000&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Turning+ideas+into+products%2C+systems%2C+and+momentum#gh-light-mode-only" alt="Typing SVG light mode" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Turning+ideas+into+products%2C+systems%2C+and+momentum" alt="Typing SVG" />
-
-<br />
-<br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaronagraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronagraz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-
-<img width="840" src="https://streak-stats.demolab.com?user=aaronagraz&theme=tokyonight&hide_border=true" />
-
-# Aaron Agraz
-
-### Building web apps, AI systems, agents, funnels, and digital products.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Building+web+apps%2C+AI+systems%2C+agents%2C+funnels%2C+and+digital+products#gh-dark-mode-only" alt="subtitle dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=111111&center=true&vCenter=true&width=1100&lines=Building+web+apps%2C+AI+systems%2C+agents%2C+funnels%2C+and+digital+products#gh-light-mode-only" alt="subtitle light" />
 
 <p>
   Builder focused on execution, critical thinking, innovation, research, and turning ideas into real systems that ship.
@@ -40,6 +22,9 @@
 
 ## / about
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=240&lines=%2F+about#gh-dark-mode-only" alt="/ about dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=240&lines=%2F+about#gh-light-mode-only" alt="/ about light" />
+
 I build at the intersection of:
 
 - web development
@@ -56,9 +41,14 @@ My approach combines technical execution with critical thinking, insight, emotio
 
 I am interested in building products that are not only functional, but strategically positioned, clearly communicated, and designed to create momentum.
 
+> Build with intent. Move with clarity. Ship with teeth.
+
 ---
 
 ## / current-state
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=320&lines=%2F+current-state#gh-dark-mode-only" alt="/ current-state dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=320&lines=%2F+current-state#gh-light-mode-only" alt="/ current-state light" />
 
 ```txt
 status: building
@@ -70,6 +60,9 @@ mindset: clarity > noise
 ---
 
 ## / stack
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=240&lines=%2F+stack#gh-dark-mode-only" alt="/ stack dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=240&lines=%2F+stack#gh-light-mode-only" alt="/ stack light" />
 
 ### Core
 
@@ -87,17 +80,23 @@ mindset: clarity > noise
   <img src="https://img.shields.io/badge/Perplexity-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-111111?style=for-the-badge" />
 </p>
+
+> Tools change. Taste, judgment, and shipping survive.
 
 ---
 
 ## / skills
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=260&lines=%2F+skills#gh-dark-mode-only" alt="/ skills dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=260&lines=%2F+skills#gh-light-mode-only" alt="/ skills light" />
+
 - Architect and launch web apps from concept to production
 - Build AI-powered products, workflows, automations, and internal systems
 - Create agent-based flows for reasoning, task execution, and process automation
 - Integrate multiple AI models, APIs, and tools into real product experiences
-- Work across OpenAI, Claude, Claude Code, Cursor, Perplexity, Copilot, and AI-assisted development workflows
+- Work across OpenAI, Claude, Claude Code, Cursor, Perplexity, Copilot, LangChain, and AI-assisted development workflows
 - Develop frontend systems that connect cleanly with backend and AI layers
 - Use Python, JavaScript, TypeScript, APIs, and modern tooling to move from idea to deployment
 - Turn vague ideas into structured digital products with speed and clarity
@@ -111,6 +110,9 @@ mindset: clarity > noise
 ---
 
 ## / how-i-think
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=330&lines=%2F+how-i-think#gh-dark-mode-only" alt="/ how-i-think dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=330&lines=%2F+how-i-think#gh-light-mode-only" alt="/ how-i-think light" />
 
 ```txt
 critical thinking
@@ -127,12 +129,16 @@ I care about understanding what makes an idea work, not just making it look fini
 
 That means thinking about structure, incentives, positioning, friction, usability, perception, communication, adoption, and scale.
 
-I am interested in the full picture:
-how something is built, how it is experienced, how it is marketed, and why it matters.
+I am interested in the full picture: how something is built, how it is experienced, how it is marketed, and why it matters.
+
+> Signal over noise. Substance over posturing.
 
 ---
 
 ## / what-i-do
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=280&lines=%2F+what-i-do#gh-dark-mode-only" alt="/ what-i-do dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=280&lines=%2F+what-i-do#gh-light-mode-only" alt="/ what-i-do light" />
 
 - Build web apps and digital tools
 - Design AI-powered workflows and agent systems
@@ -145,6 +151,9 @@ how something is built, how it is experienced, how it is marketed, and why it ma
 ---
 
 ## / marketing-and-business
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=420&lines=%2F+marketing-and-business#gh-dark-mode-only" alt="/ marketing-and-business dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=420&lines=%2F+marketing-and-business#gh-light-mode-only" alt="/ marketing-and-business light" />
 
 I also work with ideas through the lens of growth, positioning, and entrepreneurship.
 
@@ -159,12 +168,16 @@ That includes:
 - research and market observation
 - execution with business intent
 
-I am interested in products that do not just exist, but move.
-Products that attract attention, create trust, generate action, and build long-term value.
+I am interested in products that do not just exist, but move. Products that attract attention, create trust, generate action, and build long-term value.
+
+> Distribution matters. Positioning matters. Narrative matters.
 
 ---
 
 ## / philosophy
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=300&lines=%2F+philosophy#gh-dark-mode-only" alt="/ philosophy dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=300&lines=%2F+philosophy#gh-light-mode-only" alt="/ philosophy light" />
 
 ```txt
 Build fast.
@@ -182,6 +195,9 @@ Let the work speak.
 
 ## / focus
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=230&lines=%2F+focus#gh-dark-mode-only" alt="/ focus dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=230&lines=%2F+focus#gh-light-mode-only" alt="/ focus light" />
+
 Right now I am focused on building things like:
 
 - AI-powered web apps
@@ -192,9 +208,30 @@ Right now I am focused on building things like:
 - conversion-aware user experiences
 - scalable creative and technical systems
 
+> Under construction, by design.
+
+---
+
+## / stats
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=230&lines=%2F+stats#gh-dark-mode-only" alt="/ stats dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=230&lines=%2F+stats#gh-light-mode-only" alt="/ stats light" />
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaronagraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronagraz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aaronagraz&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## / contact
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=260&lines=%2F+contact#gh-dark-mode-only" alt="/ contact dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=260&lines=%2F+contact#gh-light-mode-only" alt="/ contact light" />
 
 ```txt
 email   -> aaronagrazh@gmail.com
@@ -205,5 +242,7 @@ focus   -> building products with intelligence, strategy, and edge
 <div align="center">
 
 ### Turning ideas into systems, products, and momentum.
+
+<sub>easter egg: if it feels impossible, it is probably just underdesigned.</sub>
 
 </div>
