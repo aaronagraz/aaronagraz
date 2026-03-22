@@ -54,21 +54,18 @@ mindset: clarity > noise
 ### Core
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mysql,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,express,tailwind,mysql,postgres,git,github,docker,vercel,figma,vscode,postman" />
 </p>
 
-### AI / Tools
+### AI
 
-- OpenAI
-- Claude
-- Cursor
-- Perplexity
-- ChatGPT
-- AI-assisted workflows
-- agent systems
-- prompting systems
-- automation logic
-- API integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Perplexity-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge" />
+</p>
 
 ---
 
@@ -80,6 +77,7 @@ mindset: clarity > noise
 - Integrate multiple AI models, APIs, and tools into real product experiences
 - Work across OpenAI, Claude, Cursor, Perplexity, and AI-assisted development workflows
 - Develop frontend systems that connect cleanly with backend and AI layers
+- Use Python, JavaScript, TypeScript, APIs, and modern tooling to move from idea to deployment
 - Turn vague ideas into structured digital products with speed and clarity
 - Design funnels, user journeys, and conversion-oriented digital experiences
 - Apply product thinking, positioning, messaging, and strategic communication
@@ -164,7 +162,7 @@ Let the work speak.
 
 Right now I am focused on building things like:
 
-- AI-powered web apps and solutions
+- AI-powered web apps
 - agent workflows
 - frontend systems
 - experimental interfaces
