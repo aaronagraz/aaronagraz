@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Aaron+Agraz#gh-dark-mode-only" alt="Aaron Agraz dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=111111&center=true&vCenter=true&width=1100&lines=Aaron+Agraz#gh-light-mode-only" alt="Aaron Agraz light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Volume+volume+volume;Iterate+iterate+iterate;Practice+and+execution+first;Learn+by+doing;Learn+by+deploying;Turning+ideas+into+products%2C+systems%2C+and+momentum#gh-dark-mode-only" alt="Aaron Agraz dark" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Building+web+apps%2C+AI+systems%2C+agents%2C+funnels%2C+and+digital+products#gh-dark-mode-only" alt="subtitle dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=111111&center=true&vCenter=true&width=1100&lines=Building+web+apps%2C+AI+systems%2C+agents%2C+funnels%2C+and+digital+products#gh-light-mode-only" alt="subtitle light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1100&color=111111&center=true&vCenter=true&width=1100&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Volume+volume+volume;Iterate+iterate+iterate;Practice+and+execution+first;Learn+by+doing;Learn+by+deploying;Turning+ideas+into+products%2C+systems%2C+and+momentum#gh-light-mode-only" alt="Aaron Agraz light" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1400&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Builder+focused+on+execution%2C+research%2C+strategy%2C+and+shipping;Team+player+with+a+systems+mindset;Practice+first.+Polish+later.;Thinking+deeply%2C+building+fast%2C+shipping+often#gh-dark-mode-only" alt="subtitle dark" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1400&color=111111&center=true&vCenter=true&width=1100&lines=Builder+focused+on+execution%2C+research%2C+strategy%2C+and+shipping;Team+player+with+a+systems+mindset;Practice+first.+Polish+later.;Thinking+deeply%2C+building+fast%2C+shipping+often#gh-light-mode-only" alt="subtitle light" />
 
 <p>
   Builder focused on execution, critical thinking, innovation, research, and turning ideas into real systems that ship.
@@ -22,8 +24,8 @@
 
 ## / about
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=240&lines=%2F+about#gh-dark-mode-only" alt="/ about dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=240&lines=%2F+about#gh-light-mode-only" alt="/ about light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=420&lines=%2F+about;builder+mode%3A+on;learn+by+doing#gh-dark-mode-only" alt="/ about dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=420&lines=%2F+about;builder+mode%3A+on;learn+by+doing#gh-light-mode-only" alt="/ about light" />
 
 I build at the intersection of:
 
@@ -37,7 +39,9 @@ I build at the intersection of:
 
 I work across code, systems, interface, automation, communication, and growth.
 
-My approach combines technical execution with critical thinking, insight, emotional intelligence, and business awareness.
+My approach combines technical execution with critical thinking, insight, emotional intelligence, business awareness, and team collaboration.
+
+I am a team player who values momentum, communication, shared execution, and building alongside people who care about doing real work well.
 
 I am interested in building products that are not only functional, but strategically positioned, clearly communicated, and designed to create momentum.
 
@@ -47,22 +51,23 @@ I am interested in building products that are not only functional, but strategic
 
 ## / current-state
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=320&lines=%2F+current-state#gh-dark-mode-only" alt="/ current-state dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=320&lines=%2F+current-state#gh-light-mode-only" alt="/ current-state light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=430&lines=%2F+current-state;volume+volume+volume;iterate+iterate+iterate#gh-dark-mode-only" alt="/ current-state dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=430&lines=%2F+current-state;volume+volume+volume;iterate+iterate+iterate#gh-light-mode-only" alt="/ current-state light" />
 
 ```txt
 status: building
 mode: shipping
 focus: web apps / ai systems / agents / funnels / experiments
 mindset: clarity > noise
+learning: by doing / by testing / by deploying
 ```
 
 ---
 
 ## / stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=240&lines=%2F+stack#gh-dark-mode-only" alt="/ stack dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=240&lines=%2F+stack#gh-light-mode-only" alt="/ stack light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=340&lines=%2F+stack;tools+change.+taste+stays.#gh-dark-mode-only" alt="/ stack dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=340&lines=%2F+stack;tools+change.+taste+stays.#gh-light-mode-only" alt="/ stack light" />
 
 ### Core
 
@@ -89,8 +94,8 @@ mindset: clarity > noise
 
 ## / skills
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=260&lines=%2F+skills#gh-dark-mode-only" alt="/ skills dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=260&lines=%2F+skills#gh-light-mode-only" alt="/ skills light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=420&lines=%2F+skills;practice+and+execution+first#gh-dark-mode-only" alt="/ skills dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=420&lines=%2F+skills;practice+and+execution+first#gh-light-mode-only" alt="/ skills light" />
 
 - Architect and launch web apps from concept to production
 - Build AI-powered products, workflows, automations, and internal systems
@@ -106,13 +111,14 @@ mindset: clarity > noise
 - Combine technical work with branding, content systems, and growth strategy
 - Operate with critical thinking, pattern recognition, and decision-making under ambiguity
 - Build with both analytical depth and emotional intelligence
+- Collaborate effectively, communicate clearly, and contribute as a team player
 
 ---
 
 ## / how-i-think
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=330&lines=%2F+how-i-think#gh-dark-mode-only" alt="/ how-i-think dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=330&lines=%2F+how-i-think#gh-light-mode-only" alt="/ how-i-think light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=430&lines=%2F+how-i-think;signal+over+noise#gh-dark-mode-only" alt="/ how-i-think dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=430&lines=%2F+how-i-think;signal+over+noise#gh-light-mode-only" alt="/ how-i-think light" />
 
 ```txt
 critical thinking
@@ -123,6 +129,7 @@ systems mindset
 emotional intelligence
 strategic communication
 execution under pressure
+team awareness
 ```
 
 I care about understanding what makes an idea work, not just making it look finished.
@@ -137,8 +144,8 @@ I am interested in the full picture: how something is built, how it is experienc
 
 ## / what-i-do
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=280&lines=%2F+what-i-do#gh-dark-mode-only" alt="/ what-i-do dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=280&lines=%2F+what-i-do#gh-light-mode-only" alt="/ what-i-do light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=430&lines=%2F+what-i-do;learn+by+deploying#gh-dark-mode-only" alt="/ what-i-do dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=430&lines=%2F+what-i-do;learn+by+deploying#gh-light-mode-only" alt="/ what-i-do light" />
 
 - Build web apps and digital tools
 - Design AI-powered workflows and agent systems
@@ -152,8 +159,8 @@ I am interested in the full picture: how something is built, how it is experienc
 
 ## / marketing-and-business
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=420&lines=%2F+marketing-and-business#gh-dark-mode-only" alt="/ marketing-and-business dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=420&lines=%2F+marketing-and-business#gh-light-mode-only" alt="/ marketing-and-business light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=520&lines=%2F+marketing-and-business;distribution+matters#gh-dark-mode-only" alt="/ marketing-and-business dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=520&lines=%2F+marketing-and-business;distribution+matters#gh-light-mode-only" alt="/ marketing-and-business light" />
 
 I also work with ideas through the lens of growth, positioning, and entrepreneurship.
 
@@ -176,14 +183,17 @@ I am interested in products that do not just exist, but move. Products that attr
 
 ## / philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=300&lines=%2F+philosophy#gh-dark-mode-only" alt="/ philosophy dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=300&lines=%2F+philosophy#gh-light-mode-only" alt="/ philosophy light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=430&lines=%2F+philosophy;learn+by+doing#gh-dark-mode-only" alt="/ philosophy dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=430&lines=%2F+philosophy;learn+by+doing#gh-light-mode-only" alt="/ philosophy light" />
 
 ```txt
 Build fast.
 Think deeply.
 Iterate.
 Play as a team.
+Practice and execution first.
+Learn by doing.
+Learn by deploying.
 Research properly.
 Communicate clearly.
 Refine hard.
@@ -195,8 +205,8 @@ Let the work speak.
 
 ## / focus
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=230&lines=%2F+focus#gh-dark-mode-only" alt="/ focus dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=230&lines=%2F+focus#gh-light-mode-only" alt="/ focus light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=390&lines=%2F+focus;under+construction%2C+by+design#gh-dark-mode-only" alt="/ focus dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=390&lines=%2F+focus;under+construction%2C+by+design#gh-light-mode-only" alt="/ focus light" />
 
 Right now I am focused on building things like:
 
@@ -214,8 +224,8 @@ Right now I am focused on building things like:
 
 ## / stats
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=230&lines=%2F+stats#gh-dark-mode-only" alt="/ stats dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=230&lines=%2F+stats#gh-light-mode-only" alt="/ stats light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=320&lines=%2F+stats;evidence+layer#gh-dark-mode-only" alt="/ stats dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=320&lines=%2F+stats;evidence+layer#gh-light-mode-only" alt="/ stats light" />
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaronagraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
@@ -230,8 +240,8 @@ Right now I am focused on building things like:
 
 ## / contact
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=FFFFFF&width=260&lines=%2F+contact#gh-dark-mode-only" alt="/ contact dark" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=3000&color=111111&width=260&lines=%2F+contact#gh-light-mode-only" alt="/ contact light" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=FFFFFF&width=340&lines=%2F+contact;open+to+serious+collaboration#gh-dark-mode-only" alt="/ contact dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=2600&color=111111&width=340&lines=%2F+contact;open+to+serious+collaboration#gh-light-mode-only" alt="/ contact light" />
 
 ```txt
 email   -> aaronagrazh@gmail.com
@@ -243,6 +253,8 @@ focus   -> building products with intelligence, strategy, and edge
 
 ### Turning ideas into systems, products, and momentum.
 
-<sub>easter egg: if it feels impossible, it is probably just underdesigned.</sub>
+<sub>easter egg: if it feels impossible, it is probably just underdesigned.</sub><br />
+<sub>easter egg: volume builds instinct.</sub><br />
+<sub>easter egg: clarity is a force multiplier.</sub>
 
 </div>
