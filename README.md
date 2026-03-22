@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Turning+ideas+into+products%2C+systems%2C+and+momentum#gh-dark-mode-only" alt="Typing SVG dark mode" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=111111&center=true&vCenter=true&width=1000&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Turning+ideas+into+products%2C+systems%2C+and+momentum#gh-light-mode-only" alt="Typing SVG light mode" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Turning+ideas+into+products%2C+systems%2C+and+momentum" alt="Typing SVG" />
 
 <br />
