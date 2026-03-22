@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Aaron+Agraz;Building+web+apps%2C+AI+systems%2C+agents%2C+and+funnels;Critical+thinking+%2B+research+%2B+execution;Turning+ideas+into+products%2C+systems%2C+and+momentum" alt="Typing SVG" />
+
+<br />
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaronagraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronagraz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br />
+
+<img width="840" src="https://streak-stats.demolab.com?user=aaronagraz&theme=tokyonight&hide_border=true" />
+
 # Aaron Agraz
 
 ### Building web apps, AI systems, agents, funnels, and digital products.
@@ -54,7 +66,7 @@ mindset: clarity > noise
 ### Core
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,express,tailwind,mysql,postgres,git,github,docker,vercel,figma,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,express,tailwind,postgres,mysql,supabase,firebase,docker,git,github,vercel,figma,vscode,postman" />
 </p>
 
 ### AI
@@ -62,9 +74,11 @@ mindset: clarity > noise
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Perplexity-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge" />
 </p>
 
 ---
@@ -75,7 +89,7 @@ mindset: clarity > noise
 - Build AI-powered products, workflows, automations, and internal systems
 - Create agent-based flows for reasoning, task execution, and process automation
 - Integrate multiple AI models, APIs, and tools into real product experiences
-- Work across OpenAI, Claude, Cursor, Perplexity, and AI-assisted development workflows
+- Work across OpenAI, Claude, Claude Code, Cursor, Perplexity, Copilot, and AI-assisted development workflows
 - Develop frontend systems that connect cleanly with backend and AI layers
 - Use Python, JavaScript, TypeScript, APIs, and modern tooling to move from idea to deployment
 - Turn vague ideas into structured digital products with speed and clarity
@@ -169,19 +183,6 @@ Right now I am focused on building things like:
 - content-driven digital products
 - conversion-aware user experiences
 - scalable creative and technical systems
-
----
-
-## / github-stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaronagraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronagraz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaronagraz&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
