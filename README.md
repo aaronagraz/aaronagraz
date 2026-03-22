@@ -1,29 +1,126 @@
-<h1 align="center">Hi 👋, I'm Aaron Agraz Huitron</h1>
-<h3 align="center">A passionate Full-Stack-Web-Developer</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronagraz" alt="aaronagraz" /></a> </p>
+# Aaron Agraz
 
-- 🔭 I’m currently working on [Resumate](https://github.com/aaronagraz/resumate)
+### Building web apps, systems, content, and digital products.
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate in **any project to make my name grow in this area please reach me to my email that is below :).**
-
-- 🤝 I’m looking for help with **Debugging**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/aaronagraz?tab=repositories)
-- 💬 Ask me about **JS, DOM, Node.js Express.js Server and Backend**
-
-- 📫 How to reach me **aaronagrazh@gmail.com**
-
-
-<h3 align="">Connect with me:</h3>
-<p align="left">
-<a href="[https://www.linkedin.com/in/salvador-espinosa-valdez](https://github.com/aaronagraz)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/salvador-espinosa-valdez](https://github.com/aaronagraz)/" height="30" width="40" /></a>
-<a href="[https://twitter.com/espinosachava](https://github.com/aaronagraz)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronagraz" height="30" width="40" /></a>
+<p>
+  Creative builder focused on code, design, execution, and shipping ideas that actually become real.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a></p>
+<p>
+  <a href="mailto:aaronagrazh@gmail.com">Email</a>
+  •
+  <a href="https://github.com/aaronagraz">GitHub</a>
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=espinosasalvador&" alt="espinosasalvador" /></p>
+</div>
+
+---
+
+## / about
+
+I build at the intersection of:
+
+- web development
+- product thinking
+- digital systems
+- content and media
+- brand-driven experimentation
+
+I care about making things feel sharp, useful, and alive.  
+Not just functional. Not just pretty. Built with intent.
+
+---
+
+## / current-state
+
+```txt
+status: building
+mode: shipping
+focus: web apps / ui / systems / experiments
+mindset: less talking, more releasing
+```
+
+---
+
+## / stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mysql,git,github,figma,vscode" />
+</p>
+
+---
+
+## / what-i-do
+
+- Build web apps and interactive tools
+- Design clean interfaces with strong visual direction
+- Turn vague ideas into structured digital products
+- Create systems for content, workflow, and execution
+- Blend technical work with creative strategy
+
+---
+
+## / philosophy
+
+```txt
+Build fast.
+Refine hard.
+Ship often.
+Let the work speak.
+```
+
+I’m interested in projects that combine aesthetics, clarity, momentum, and real-world usefulness.
+
+---
+
+## / featured-direction
+
+Right now I’m focused on building things like:
+
+- productized web tools
+- clean frontend systems
+- experimental interfaces
+- content-driven digital assets
+- scalable creative/technical workflows
+
+---
+
+## / github-stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaronagraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronagraz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aaronagraz&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## / selected-repos
+
+- Main product / strongest build
+- Cleanest UI project
+- Best full-stack app
+- Most useful tool
+- Most ambitious experiment
+- Personal favorite
+
+---
+
+## / contact
+
+```txt
+email   -> aaronagrazh@gmail.com
+status  -> open to serious collaboration
+focus   -> building things with edge
+```
+
+<div align="center">
+
+### Turning ideas into systems.
+
+</div>
